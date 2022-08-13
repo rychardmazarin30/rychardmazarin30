@@ -12,11 +12,11 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="45" height="45"/>
 
 
-<p align="center" dir="auto">
+<div>
  <a href="https://github.com/rychardmazarin30">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rychardmazarin30&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rychardmazarin30&layout=compact&langs_count=7&theme=algolia" style="max-width: 100%;"/> 
  </a>
-</p>
+</div>
  
 ![Snake animation](https://github.com/rychardmazarin30/rychardmazarin30/blob/output/github-contribution-grid-snake.svg)
