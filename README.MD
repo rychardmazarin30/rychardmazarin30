@@ -5,7 +5,7 @@
 <h1>Rychard Mazarin</h1>
 <p>Tenho 18 anos, moro em São Bernardo do Campo/SP e sou apaixonado por programação, comecei a programar esse ano e foi um caminho sem volta, quanto mais descubro novas tecnologias mais quero aprender outras, iriririri</p>
 
-https://tenor.com/view/computer-nerd-typing-meme-gif-23328185
+![](https://tenor.com/view/computer-nerd-typing-meme-gif-23328185.gif)
 
 ### 🖥️ Ferramentas e Tecnologias:
 
