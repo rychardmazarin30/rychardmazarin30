@@ -3,8 +3,14 @@
 </head>
 
 <h1>Rychard Mazarin</h1>
-<p>Tenho 18 anos, moro em São Bernardo do Campo/SP e sou apaixonado por programação, comecei a programar esse ano e foi um caminho sem volta, quanto mais descubro novas tecnologias mais quero aprender outras, iriririri</p>
+<p>Tenho 18 anos, moro em São Bernardo do Campo/SP e sou apaixonado por programação, comecei a programar esse ano e foi um caminho sem volta, quanto mais me aprofundo em uma tecnologia nova mais fundo eu quero ir, atualmente desenvolvo em python e é minha principal linguagem.
+IRIRIRIRI.</p>
 
+<div align="center">
+  <a href="https://github.com/rychardmazarin30">
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=rychardmazarin30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rychardmazarin30&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### 🖥️ Ferramentas e Tecnologias:
 
@@ -23,12 +29,5 @@
 <a href="https://www.linkedin.com/in/rychard-mazarin30/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<hr>
-
-<div align="center">
-  <a href="https://github.com/rychardmazarin30">
-  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=rychardmazarin30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rychardmazarin30&layout=compact&langs_count=7&theme=dracula"/>
-</div>
  
 ![Snake animation](https://github.com/rychardmazarin30/rychardmazarin30/blob/output/github-contribution-grid-snake.svg)
