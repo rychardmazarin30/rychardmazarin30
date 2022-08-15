@@ -6,12 +6,6 @@
 <p>Tenho 18 anos, moro em São Bernardo do Campo/SP e sou apaixonado por programação, comecei a programar esse ano e foi um caminho sem volta, quanto mais me aprofundo em uma tecnologia nova mais fundo eu quero ir, atualmente desenvolvo em python e é minha principal linguagem.
 IRIRIRIRI.</p>
 
-<div align="center">
-  <a href="https://github.com/rychardmazarin30">
-  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=rychardmazarin30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rychardmazarin30&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ### 🖥️ Ferramentas e Tecnologias:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
@@ -27,6 +21,12 @@ IRIRIRIRI.</p>
 <a href="https://instagram.com/_rychard30" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:rychardnbmazarin89@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rychard-mazarin30/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<div align="center">
+  <a href="https://github.com/rychardmazarin30">
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api?username=rychardmazarin30&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rychardmazarin30&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
  
