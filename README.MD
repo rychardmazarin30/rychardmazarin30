@@ -3,15 +3,14 @@
 </head>
 
 <h1>Rychard Mazarin</h1>
-<p>Tenho 18 anos, moro em São Bernardo do Campo/SP e sou apaixonado por programação, comecei a programar esse ano e foi um caminho sem volta, quanto mais me aprofundo em uma tecnologia nova mais fundo eu quero ir, atualmente desenvolvo em python e é minha principal linguagem.
-IRIRIRIRI.</p>
+<p>Tenho 19 anos, moro em São Bernardo do Campo/SP e sou apaixonado por programação e estudar novas tecnologias.</p>
 
 ### 🖥️ Ferramentas e Tecnologias:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="45" height="45"/>
  
-📚 Tenho estudado Flask e desenvolvimento web usando python;
+📚 Me aprofundando cada vez mais em Django e Flask;
  
 📫 Você pode falar comigo pelo Instagram ou pelo Twitter e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios. =)
 
